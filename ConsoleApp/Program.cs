@@ -12,6 +12,7 @@ namespace ConsoleApp
         {
 
             Console.WriteLine("Hello World");
+            //Just an comment about the added datetime
             Console.WriteLine(DateTime.Now);
             Console.ReadLine();
             
